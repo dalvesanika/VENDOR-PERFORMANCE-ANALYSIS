@@ -1,0 +1,213 @@
+2025-12-19 15:03:43,091 - INFO -Ingesting begin_inventory.csv in db
+2025-12-19 15:03:48,992 - INFO -Ingesting end_inventory.csv in db
+2025-12-19 15:04:05,779 - INFO -Ingesting purchases.csv in db
+2025-12-19 15:05:45,492 - INFO -Ingesting purchase_prices.csv in db
+2025-12-19 15:06:28,294 - INFO -Ingesting sales.csv in db
+2025-12-19 15:09:05,718 - INFO -Ingesting begin_inventory.csv in db
+2025-12-19 15:09:10,562 - INFO -Ingesting end_inventory.csv in db
+2025-12-19 15:09:25,523 - INFO -Ingesting purchases.csv in db
+2025-12-19 15:10:52,879 - INFO -Ingesting purchase_prices.csv in db
+2025-12-19 15:11:29,758 - INFO -Ingesting sales.csv in db
+2025-12-19 15:22:19,909 - INFO -Ingesting vendor_invoice.csv in db
+2025-12-19 15:22:20,190 - INFO -Ingestion Complete
+2025-12-19 15:22:20,191 - INFO -Total time Taken: 13.25054091612498 minutes
+2025-12-19 16:46:56,244 - ERROR -No such comm target registered: jupyter.widget.control
+2025-12-19 16:46:56,249 - WARNING -No such comm: b7384571-e25c-4d39-bd74-d065d4792cd8
+2025-12-19 16:46:56,249 - DEBUG -Current comms: []
+2025-12-19 17:31:15,801 - ERROR -No such comm target registered: jupyter.widget.control
+2025-12-19 17:31:15,804 - WARNING -No such comm: bf16ce4e-a96f-4baf-885e-32261a6780f8
+2025-12-19 17:31:15,805 - DEBUG -Current comms: []
+2025-12-28 22:27:47,431 - INFO -Creating Vendor Summary Tables....
+2026-02-27 22:49:40,111 - INFO -Creating Vendor Summary Tables....
+2026-02-27 22:49:46,082 - INFO -Creating Vendor Summary Tables....
+2026-02-27 22:50:32,860 - INFO -Creating Vendor Summary Tables....
+2026-02-27 22:54:48,541 - INFO -Creating Vendor Summary Tables....
+2026-02-27 22:58:00,266 - INFO -Creating Vendor Summary Tables....
+2026-02-27 23:03:55,439 - INFO -Creating Vendor Summary....
+2026-02-27 23:04:35,996 - INFO -Cleaning Data....
+2026-02-27 23:04:36,032 - INFO -Ingesting data....
+2026-02-27 23:04:36,178 - INFO -Completed
+2026-03-01 23:23:04,569 - INFO -Creating Vendor Summary Tables....
+2026-03-01 23:23:11,082 - INFO -Creating Vendor Summary....
+2026-03-01 23:23:51,000 - INFO -Cleaning Data....
+2026-03-01 23:23:51,024 - INFO -Ingesting data....
+2026-03-01 23:23:51,197 - INFO -Completed
+2026-03-01 23:24:14,891 - INFO -Creating Vendor Summary Tables....
+2026-03-01 23:25:10,227 - INFO -Creating Vendor Summary....
+2026-03-01 23:25:27,638 - INFO -Cleaning Data....
+2026-03-01 23:25:27,662 - INFO -Ingesting data....
+2026-03-01 23:25:27,779 - INFO -Completed
+2026-03-01 23:26:53,681 - INFO -Creating Vendor Summary....
+2026-03-01 23:27:11,629 - INFO -Cleaning Data....
+2026-03-01 23:27:11,654 - INFO -Ingesting data....
+2026-03-01 23:27:11,921 - INFO -Completed
+2026-03-01 23:38:39,667 - INFO -Creating Vendor Summary....
+2026-03-01 23:38:57,993 - INFO -Cleaning Data....
+2026-03-01 23:38:58,014 - INFO -Ingesting data....
+2026-03-01 23:38:58,242 - INFO -Completed
+2026-03-01 23:38:58,288 - INFO -Creating Vendor Summary....
+2026-03-01 23:39:15,977 - INFO -Cleaning Data....
+2026-03-01 23:39:15,997 - INFO -Ingesting data....
+2026-03-01 23:39:16,195 - INFO -Completed
+2026-03-01 23:40:16,820 - INFO -Creating Vendor Summary....
+2026-03-01 23:40:34,854 - INFO -Cleaning Data....
+2026-03-01 23:40:34,870 - INFO -Ingesting data....
+2026-03-01 23:40:35,025 - INFO -Completed
+2026-04-06 19:30:11,427 - INFO -Creating Vendor Summary....
+2026-04-06 19:34:30,970 - INFO -Creating Vendor Summary....
+2026-04-06 20:06:44,637 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-06 20:06:44,643 - WARNING -No such comm: 7e1fcf64-7c67-473c-a3ee-0384b982bea0
+2026-04-06 20:06:44,643 - DEBUG -Current comms: []
+2026-04-06 20:08:44,298 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-06 20:08:44,301 - WARNING -No such comm: 2e7f1b81-75ab-4456-82dd-c66c4a1d02ee
+2026-04-06 20:08:44,301 - DEBUG -Current comms: []
+2026-04-06 22:48:18,116 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-06 22:48:18,119 - WARNING -No such comm: 6ab74f75-dc0c-4147-ac72-6a2bd5b89646
+2026-04-06 22:48:18,120 - DEBUG -Current comms: []
+2026-04-07 20:24:04,560 - INFO -Creating Vendor Summary Table...
+2026-04-07 20:29:52,286 - INFO -Cleaning Data...
+2026-04-07 20:29:52,346 - INFO -
+   VendorNumber                VendorName  Brand              Description  \
+0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black   
+1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC   4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC   3545          Ketel One Vodka   
+
+   PurchasePrice  ActualPrice  Volume  TotalPurchaseQuantity  \
+0          26.27        36.99  1750.0                 145080   
+1          23.19        28.99  1750.0                 164038   
+2          18.24        24.99  1750.0                 187407   
+3          16.17        22.99  1750.0                 201682   
+4          21.89        29.99  1750.0                 138109   
+
+   TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  \
+0            3811251.60            142049.0         5101919.51   
+1            3804041.22            160247.0         4819073.49   
+2            3418303.68            187140.0         4538120.60   
+3            3261197.94            200412.0         4475972.88   
+4            3023206.01            135838.0         4223107.62   
+
+   TotalSalesPrice  TotalExciseTax  FreightCost  GrossProfit  ProfitMargin  \
+0        672819.31       260999.20     68601.68   1290667.91     25.297693   
+1        561512.37       294438.66    144929.24   1015032.27     21.062810   
+2        461140.15       343854.07    123780.22   1119816.92     24.675786   
+3        420050.01       368242.80    257032.07   1214774.94     27.139908   
+4        545778.28       249587.83    257032.07   1199901.61     28.412764   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.979108              1.338647  
+1       0.976890              1.266830  
+2       0.998575              1.327594  
+3       0.993703              1.372493  
+4       0.983556              1.396897  
+2026-04-07 20:29:52,346 - INFO -Ingesting data into DB...
+2026-04-07 20:29:52,654 - INFO -Process Completed Successfully
+2026-04-07 20:29:52,674 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-07 20:29:52,680 - WARNING -No such comm: 1b605a96-42c1-44b0-8d58-8a90b9ca49e7
+2026-04-07 20:29:52,680 - DEBUG -Current comms: []
+2026-04-07 20:30:04,679 - INFO -Creating Vendor Summary Table...
+2026-04-07 20:31:41,006 - INFO -Cleaning Data...
+2026-04-07 20:31:41,046 - INFO -
+   VendorNumber                VendorName  Brand              Description  \
+0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black   
+1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC   4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC   3545          Ketel One Vodka   
+
+   PurchasePrice  ActualPrice  Volume  TotalPurchaseQuantity  \
+0          26.27        36.99  1750.0                 145080   
+1          23.19        28.99  1750.0                 164038   
+2          18.24        24.99  1750.0                 187407   
+3          16.17        22.99  1750.0                 201682   
+4          21.89        29.99  1750.0                 138109   
+
+   TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  \
+0            3811251.60            142049.0         5101919.51   
+1            3804041.22            160247.0         4819073.49   
+2            3418303.68            187140.0         4538120.60   
+3            3261197.94            200412.0         4475972.88   
+4            3023206.01            135838.0         4223107.62   
+
+   TotalSalesPrice  TotalExciseTax  FreightCost  GrossProfit  ProfitMargin  \
+0        672819.31       260999.20     68601.68   1290667.91     25.297693   
+1        561512.37       294438.66    144929.24   1015032.27     21.062810   
+2        461140.15       343854.07    123780.22   1119816.92     24.675786   
+3        420050.01       368242.80    257032.07   1214774.94     27.139908   
+4        545778.28       249587.83    257032.07   1199901.61     28.412764   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.979108              1.338647  
+1       0.976890              1.266830  
+2       0.998575              1.327594  
+3       0.993703              1.372493  
+4       0.983556              1.396897  
+2026-04-07 20:31:41,047 - INFO -Ingesting data into DB...
+2026-04-07 20:31:41,235 - INFO -Process Completed Successfully
+2026-04-07 20:31:41,275 - INFO -Creating Vendor Summary Table...
+2026-04-07 20:33:17,758 - INFO -Cleaning Data...
+2026-04-07 20:33:17,807 - INFO -
+   VendorNumber                VendorName  Brand              Description  \
+0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black   
+1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC   4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC   3545          Ketel One Vodka   
+
+   PurchasePrice  ActualPrice  Volume  TotalPurchaseQuantity  \
+0          26.27        36.99  1750.0                 145080   
+1          23.19        28.99  1750.0                 164038   
+2          18.24        24.99  1750.0                 187407   
+3          16.17        22.99  1750.0                 201682   
+4          21.89        29.99  1750.0                 138109   
+
+   TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  \
+0            3811251.60            142049.0         5101919.51   
+1            3804041.22            160247.0         4819073.49   
+2            3418303.68            187140.0         4538120.60   
+3            3261197.94            200412.0         4475972.88   
+4            3023206.01            135838.0         4223107.62   
+
+   TotalSalesPrice  TotalExciseTax  FreightCost  GrossProfit  ProfitMargin  \
+0        672819.31       260999.20     68601.68   1290667.91     25.297693   
+1        561512.37       294438.66    144929.24   1015032.27     21.062810   
+2        461140.15       343854.07    123780.22   1119816.92     24.675786   
+3        420050.01       368242.80    257032.07   1214774.94     27.139908   
+4        545778.28       249587.83    257032.07   1199901.61     28.412764   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.979108              1.338647  
+1       0.976890              1.266830  
+2       0.998575              1.327594  
+3       0.993703              1.372493  
+4       0.983556              1.396897  
+2026-04-07 20:33:17,807 - INFO -Ingesting data into DB...
+2026-04-07 20:33:18,002 - INFO -Process Completed Successfully
+2026-04-07 21:42:14,877 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-07 21:42:14,882 - WARNING -No such comm: 761a4752-452d-4ce8-a6ac-a4eb2f1ad875
+2026-04-07 21:42:14,882 - DEBUG -Current comms: []
+2026-04-07 21:46:05,004 - INFO -\U0001f50d Checking tables...
+2026-04-07 21:46:05,014 - INFO -\U0001f680 Running summary query...
+2026-04-07 21:47:54,733 - INFO -\U0001f4be Ingesting into database...
+2026-04-07 21:47:55,022 - INFO -\U0001f50d Checking tables...
+2026-04-07 21:47:55,035 - INFO -\U0001f680 Running summary query...
+2026-04-07 21:49:48,861 - INFO -\U0001f4be Ingesting into database...
+2026-04-07 22:20:44,419 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-07 22:20:44,428 - WARNING -No such comm: 724e2a7d-d7fe-419c-bd68-2a77f908b718
+2026-04-07 22:20:44,431 - DEBUG -Current comms: []
+2026-04-07 22:21:12,182 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-07 22:21:12,187 - WARNING -No such comm: 622b18e5-8436-471a-ae07-bfd766b82a9f
+2026-04-07 22:21:12,189 - DEBUG -Current comms: []
+2026-04-07 23:00:30,039 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-07 23:00:30,046 - WARNING -No such comm: f6065f93-d0c8-4987-bf79-1d783de39cc5
+2026-04-07 23:00:30,049 - DEBUG -Current comms: []
+2026-04-07 23:02:33,758 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-07 23:02:33,762 - WARNING -No such comm: a1b62a53-fc02-4d3e-9978-9fa8a2874d77
+2026-04-07 23:02:33,765 - DEBUG -Current comms: []
+2026-04-07 23:04:56,932 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-07 23:04:56,940 - WARNING -No such comm: 40f72783-24b2-49cc-9971-1f3e42c66db0
+2026-04-07 23:04:56,943 - DEBUG -Current comms: []
+2026-04-07 23:06:49,997 - ERROR -No such comm target registered: jupyter.widget.control
+2026-04-07 23:06:50,002 - WARNING -No such comm: bcc6c33b-5fa3-440f-a8f3-4f17816ae77c
+2026-04-07 23:06:50,005 - DEBUG -Current comms: []
